@@ -30,12 +30,9 @@
         <item id="loginPartIdText">Entre com seu apelido/código</item>
         <item id="accessCodeWarning"></item>
         <item id="partIdWarning"></item>
-        <item id="loginHeaderText">{{{center}}}{{{h3}}}Seja bem vindo(a)!{{{/h3}}}{{{/center}}}{{{br/}}}  {{{br/}}}Agradecemos sua participação nessa pesquisa.{{{br/}}}{{{br/}}}  Por favor, escolha um apelido/código, o mesmo deverá ser inserido em cada um dos três questionários a serem respondidos, ressalta-se que a identidade será preservada, tendo apenas função de codificar o participante para futuras analises de dados.</item>
+        <item id="loginHeaderText">Utilize o mesmo apelido/código que inseriu no questionário anterior.</item>
         <item id="loginWelcomeText">{{{center}}}{{{h3}}}Seja bem vindo(a)!{{{/h3}}}{{{/center}}}{{{br/}}}
-
-{{{br/}}}Agradecemos sua participação nessa pesquisa.{{{br/}}}{{{br/}}}
-
-Por favor, escolha um apelido/código, o mesmo deverá ser inserido em cada um dos três questionários a serem respondidos, ressalta-se que a identidade será preservada, tendo apenas função de codificar o participante para futuras analises de dados.</item>
+Agradecemos sua participação nessa pesquisa. </item>
         <item id="landingHelpModalHead">Bem vindo(a)!</item>
         <item id="landingHelpModalText">Obrigado por participar dessa pesquisa. Por favor clique em &quot;{{{b}}}Continue{{{/b}}}&quot; no canto inferior direito da sua tela e continue para a próxima etapa.</item>
 
@@ -59,7 +56,7 @@ Por favor, escolha um apelido/código, o mesmo deverá ser inserido em cada um d
 
         <!-- CONSENT: get permission from participants -->
         <item id="consentTitleBarText">Termo de Consentimento Livre e Esclarecido</item>
-        <item id="consentText">Você está sendo convidado(a) a participar da pesquisa intitulada &quot;Mapeamento da Avaliação de Políticas Públicas no IPEA&quot;, conduzida por pesquisadores(as) da instituição com o objetivo de compreender percepções e práticas relacionadas à avaliação de políticas públicas no Brasil.{{{br/}}}{{{br/}}} Sua participação é voluntária e consiste em responder a três blocos de afirmações, organizando-as conforme o quanto mais ou menos concorda com cada uma delas. Após essa etapa, solicitaremos algumas informações profissionais e sociodemográficas.{{{br/}}}{{{br/}}} Não há riscos envolvidos. As informações coletadas serão tratadas de forma anônima e confidencial, sendo utilizadas exclusivamente para fins acadêmicos e institucionais.{{{br/}}}{{{br/}}} Ao clicar em &quot;Concordo&quot;, você declara que leu e entendeu as informações acima e concorda voluntariamente em participar da pesquisa.</item>
+        <item id="consentText">Você está convidado(a) a participar da pesquisa intitulada &quot;Mapeamento da Avaliação de Políticas Públicas no IPEA&quot;, conduzida por pesquisadores(as) da instituição com o objetivo de compreender percepções e práticas relacionadas à avaliação de políticas públicas no Brasil.{{{br/}}}{{{br/}}} Sua participação é voluntária e consiste em responder a três blocos de afirmações, organizando-as conforme o quanto mais ou menos concorda com cada uma delas. Após essa etapa, solicitaremos algumas informações profissionais e sociodemográficas.{{{br/}}}{{{br/}}} Não há riscos envolvidos. As informações coletadas serão tratadas de forma anônima e confidencial, sendo utilizadas exclusivamente para fins acadêmicos e institucionais.{{{br/}}}{{{br/}}} Ao clicar em &quot;Concordo&quot;, você declara que leu e entendeu as informações acima e concorda voluntariamente em participar da pesquisa.</item>
         <item id="consentHelpModalHead">Informações de contato</item>
         <item id="consentHelpModalText">Muito obrigado por participar dessa pesquisa. Dúvidas e sugestões podem ser enviadas para o e-mail: joao.bertogna@ipea.gov.br.</item>
 
@@ -71,7 +68,7 @@ Por favor, escolha um apelido/código, o mesmo deverá ser inserido em cada um d
         <item id="presortNeutral">Neutro (2)</item>
         <item id="presortDisagreement">Discordo (1)</item>
         <item id="presortModalHead">Etapa 1 de 2</item>
-          <item id="presortModalText">{{{b}}}Leia as afirmações abaixo com atenção e separe-as em três grupos:{{{/b}}}{{{br/}}} Um grupo para afirmações que você tende a discordar;{{{br/}}}Um grupo para as que você tende a concordar;{{{br/}}} E um grupo para as demais (neutras/indecisas).{{{br/}}}{{{br/}}} Você poderá fazer ajustes mais tarde.{{{br/}}}{{{br/}}}Para reler estas instruções basta clicar no botão de ajuda na parte inferior da tela.{{{br/}}}{{{br/}}}{{{center}}}{{{iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vtnLuKzpcKQ?rel=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen}}}{{{/iframe}}}{{{/center}}}</item>
+          <item id="presortModalText">{{{b}}}Leia as afirmações abaixo com atenção e separe-as em três grupos:{{{/b}}}{{{br/}}} Um grupo para afirmações que você tende a discordar;{{{br/}}}Um grupo para as que você tende a concordar;{{{br/}}} E um grupo para as demais (neutras/indecisas).{{{br/}}}{{{br/}}} Você poderá fazer ajustes mais tarde.{{{br/}}}{{{br/}}}Para reler estas instruções, basta clicar no botão de ajuda na parte inferior da tela.{{{br/}}}{{{br/}}}{{{center}}}{{{iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vtnLuKzpcKQ?rel=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen}}}{{{/iframe}}}{{{/center}}}</item>
         <item id="presortPreventNavModalHead">Navegação bloqueada</item>
         <item id="presortPreventNavModalText">Por favor, termine a triagem preliminar antes de passar para a próxima etapa.</item>
         <item id="presortFinishedModalHead">Classificação Preliminar Completa</item>
@@ -81,12 +78,12 @@ Por favor, escolha um apelido/código, o mesmo deverá ser inserido em cada um d
 
         <!-- SORT: sorting (leave blank to skip popup) -->
         <item id="sortHelpModalHead">Etapa 2 de 2</item>
-        <item id="sortHelpModalText">Nesta etapa, por favor, clique e arraste os cards de declaração para a coluna apropriada com base na sua perspectiva.{{{br/}}} Quanto mais para esquerda menos você concorda e quanto mais para direita mais você concorda.</item>
+        <item id="sortHelpModalText">Nesta etapa, por favor, clique e arraste as afirmativas para a coluna apropriada com base na sua perspectiva.{{{br/}}} Quanto mais para esquerda, menos você concorda com a afirmativa; quanto mais para direita, mais você concorda com a afirmativa</item>
         <item id="sortAgreement">Concordo</item>
         <item id="sortDisagreement">Discordo/Concordo Menos</item>
-        <item id="condOfInst">Classifique os cards de acordo com sua percepção a respeito de metodologias de Avaliação de Políticas Públicas</item>
+        <item id="condOfInst">Classifique as afirmações de acordo com sua percepção a respeito  de Avaliação de Políticas Públicas</item>
         <item id="sortingCompleteModalHead">Sorting Complete</item>
-        <item id="sortingCompleteModalText">Você completou a triagem inicial. Por favor, reserve um momento para confirmar o seu posicionamento das cartas.{{{br/}}}{{{br/}}}Quando você estiver satisfeito com a colocação deles, por favor, clique em {{{b}}}&quot;Continue&quot;{{{/b}}} no canto inferior direito da sua tela e continue para a próxima etapa.</item>
+        <item id="sortingCompleteModalText">Você completou a triagem inicial. Por favor, reserve um momento para confirmar o seu posicionamento das afirmações.{{{br/}}}{{{br/}}}Quando você estiver satisfeito com a colocação deles, por favor, clique em {{{b}}}&quot;Continue&quot;{{{/b}}} no canto inferior direito da sua tela e continue para a próxima etapa.</item>
         <item id="sortPreventNavModalHead">Navegação bloqueada</item>
         <item id="sortPreventNavModalText">Por favor, termine a ordenação da grade antes de passar para a próxima etapa.</item>
         <item id="sortOverloadedColumnModalHead">Navegação bloqueada</item>
