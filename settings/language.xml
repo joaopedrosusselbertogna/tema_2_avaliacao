@@ -30,9 +30,8 @@
         <item id="loginPartIdText">Entre com seu apelido/código</item>
         <item id="accessCodeWarning"></item>
         <item id="partIdWarning"></item>
-        <item id="loginHeaderText">Utilize o mesmo apelido/código que inseriu no questionário anterior.</item>
-        <item id="loginWelcomeText">{{{center}}}{{{h3}}}Seja bem vindo(a)!{{{/h3}}}{{{/center}}}{{{br/}}}
-Agradecemos sua participação nessa pesquisa. </item>
+        <item id="loginHeaderText">Por favor, escolha um apelido/código. Esse mesmo apelido/código deverá ser inserido em cada um dos três questionários a serem respondidos. A identidade dos respondentes será preservada; esse código tem apenas função de codificar o participante para futuras analises de dados.</item>
+        <item id="loginWelcomeText">{{{center}}}{{{h3}}}Seja bem vindo(a)!{{{/h3}}}{{{/center}}}{{{br/}}} Agradecemos sua participação nessa pesquisa.</item>
         <item id="landingHelpModalHead">Bem vindo(a)!</item>
         <item id="landingHelpModalText">Obrigado por participar dessa pesquisa. Por favor clique em &quot;{{{b}}}Continue{{{/b}}}&quot; no canto inferior direito da sua tela e continue para a próxima etapa.</item>
 
@@ -81,7 +80,7 @@ Agradecemos sua participação nessa pesquisa. </item>
         <item id="sortHelpModalText">Nesta etapa, por favor, clique e arraste as afirmativas para a coluna apropriada com base na sua perspectiva.{{{br/}}} Quanto mais para esquerda, menos você concorda com a afirmativa; quanto mais para direita, mais você concorda com a afirmativa</item>
         <item id="sortAgreement">Concordo</item>
         <item id="sortDisagreement">Discordo/Concordo Menos</item>
-        <item id="condOfInst">Classifique as afirmações de acordo com sua percepção a respeito  de Avaliação de Políticas Públicas</item>
+        <item id="condOfInst">Classifique as afirmações de acordo com sua percepção a respeito de Políticas Públicas</item>
         <item id="sortingCompleteModalHead">Sorting Complete</item>
         <item id="sortingCompleteModalText">Você completou a triagem inicial. Por favor, reserve um momento para confirmar o seu posicionamento das afirmações.{{{br/}}}{{{br/}}}Quando você estiver satisfeito com a colocação deles, por favor, clique em {{{b}}}&quot;Continue&quot;{{{/b}}} no canto inferior direito da sua tela e continue para a próxima etapa.</item>
         <item id="sortPreventNavModalHead">Navegação bloqueada</item>
