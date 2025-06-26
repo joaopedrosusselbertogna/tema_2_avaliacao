@@ -30,7 +30,7 @@
         <item id="loginPartIdText">Entre com seu apelido/código</item>
         <item id="accessCodeWarning"></item>
         <item id="partIdWarning"></item>
-        <item id="loginHeaderText">Por favor, escolha um apelido/código. Esse mesmo apelido/código deverá ser inserido em cada um dos três questionários a serem respondidos. A identidade dos respondentes será preservada; esse código tem apenas função de codificar o participante para futuras analises de dados.</item>
+        <item id="loginHeaderText">Insira o mesmo apelido/código que utilizou no questionário anterior</item>
         <item id="loginWelcomeText">{{{center}}}{{{h3}}}Seja bem vindo(a)!{{{/h3}}}{{{/center}}}{{{br/}}} Agradecemos sua participação nessa pesquisa.</item>
         <item id="landingHelpModalHead">Bem vindo(a)!</item>
         <item id="landingHelpModalText">Obrigado por participar dessa pesquisa. Por favor clique em &quot;{{{b}}}Continue{{{/b}}}&quot; no canto inferior direito da sua tela e continue para a próxima etapa.</item>
